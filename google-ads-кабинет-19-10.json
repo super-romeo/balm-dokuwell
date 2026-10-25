@@ -1,0 +1,170 @@
+{
+ "смок": "balm",
+ "кампания": "24352150051",
+ "снято": "19.10.2026, Google Ads API, «Смоки» (только чтение)",
+ "фразы": [
+  {
+   "группа": "BALM",
+   "фраза": "de minimis förderung lkw",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "BALM",
+   "фраза": "balm förderung lkw",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "BALM",
+   "фраза": "balm de minimis",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "BALM",
+   "фраза": "balm förderung",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "BALM",
+   "фраза": "balm verwendungsnachweis",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "BALM",
+   "фраза": "balm förderung beantragen",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "BALM",
+   "фраза": "balm umweltschutz und sicherheit",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "BALM",
+   "фраза": "de minimis balm",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "BALM",
+   "фраза": "balm förderprogramm",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "BALM",
+   "фраза": "balm aus und weiterbildung",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "BALM",
+   "фраза": "balm auszahlungsantrag",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "BALM",
+   "фраза": "balm antrag",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "BALM",
+   "фраза": "balm förderung 2026",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "BALM",
+   "фраза": "balm eservice",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "BALM",
+   "фраза": "balm förderung dienstleister",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  },
+  {
+   "группа": "BALM",
+   "фраза": "balm rückforderung",
+   "соответствие": "PHRASE",
+   "состояние": "ENABLED"
+  }
+ ],
+ "минус_слова_группы": [],
+ "минус_слова_кампании": [
+  {
+   "фраза": "jobs",
+   "соответствие": "BROAD"
+  },
+  {
+   "фраза": "schulung",
+   "соответствие": "BROAD"
+  },
+  {
+   "фраза": "gratis",
+   "соответствие": "BROAD"
+  },
+  {
+   "фраза": "kostenlos",
+   "соответствие": "BROAD"
+  },
+  {
+   "фраза": "seminar",
+   "соответствие": "BROAD"
+  },
+  {
+   "фраза": "ausbildung",
+   "соответствие": "BROAD"
+  },
+  {
+   "фраза": "stellenangebote",
+   "соответствие": "BROAD"
+  },
+  {
+   "фраза": "gehalt",
+   "соответствие": "BROAD"
+  },
+  {
+   "фраза": "studium",
+   "соответствие": "BROAD"
+  },
+  {
+   "фраза": "muster",
+   "соответствие": "BROAD"
+  }
+ ],
+ "объявления": [
+  {
+   "группа": "BALM",
+   "состояние": "ENABLED",
+   "ссылки": [
+    "https://balm.dokuwell.com/?utm_source=google&utm_medium=cpc&utm_campaign=balm"
+   ],
+   "заголовки": [
+    "BALM-Förderung für Lkw",
+    "De-minimis-Antrag vorbereiten",
+    "Belege für BALM sammeln",
+    "Verwendungsnachweis BALM",
+    "Fristen im Blick behalten",
+    "Für Speditionen und Fuhrparks",
+    "Antrag, Belege, Berechnung",
+    "Rückforderung vermeiden"
+   ],
+   "описания": [
+    "Antrag, Belege und Berechnung der BALM-Förderung – geordnet für Ihren Fuhrpark.",
+    "Fristen, Verwendungsnachweis und Auszahlungsantrag im Blick, ohne Suchen im eService.",
+    "Für Speditionen mit eigenen Lkw: alles für Umweltschutz und Sicherheit an einem Ort."
+   ]
+  }
+ ]
+}
